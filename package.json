@@ -21,7 +21,7 @@
     "postinstall": ""
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "bootstrap-table": "^1.15.0",
     "bootstrap-vue": "^2.0.0-rc.24",
